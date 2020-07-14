@@ -1,4 +1,4 @@
-# Daniel Paiva,
+# Daniel Paiva
 
 I am a Brazilian who likes technology.
 
