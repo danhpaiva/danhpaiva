@@ -1,6 +1,5 @@
-## Hi guys,
+## Daniel Paiva,
 
-My name is Daniel Paiva. <br>
 I am a Brazilian who likes technology.
 
 I work as a C # developer. ( :computer: )<br>
