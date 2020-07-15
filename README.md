@@ -4,7 +4,7 @@ I am a Brazilian who likes technology.
 
 - :computer: C#, SAP B1
 - :iphone: Clash Royale player ( #8CJYPU9JU )
-- :books: Read Books
+- :books: Reading books in spare time
 
 "When something is important enough, you do it even if the odds are not in your favor."
 
