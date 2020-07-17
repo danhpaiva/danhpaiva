@@ -1,4 +1,4 @@
-# Hi there
+# Hi there,
 
 I am a Brazilian who likes technology.
 
