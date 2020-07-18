@@ -1,8 +1,8 @@
 # Hi there,
 
-I am a Brazilian who likes technology.
+I am a Brazilian who likes technology. A bit of me:
 
-- :computer: C# | SAP B1
+- :computer: C# | JavaScript | SAP B1
 - :iphone: Clash Royale player ( #8CJYPU9JU )
 - :books: Reading books in spare time
 
