@@ -1,5 +1,9 @@
 # Hi there,
 
+<p align="center">
+  <img src="https://i.imgur.com/MR1VNUq.gif">
+</p>
+
 I am a Brazilian who likes technology. A bit of me:
 
 - :computer: C# | JavaScript | SAP B1
