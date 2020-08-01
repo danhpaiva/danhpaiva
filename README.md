@@ -1,7 +1,7 @@
 # Hi there,
 
 <p align="center">
-  <img src="https://i.imgur.com/MR1VNUq.gif">
+  <img src="https://i.imgur.com/MR1VNUq.gif" width="500">
 </p>
 
 I am a Brazilian who likes technology. A bit of me:
