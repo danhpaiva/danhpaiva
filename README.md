@@ -8,7 +8,7 @@ I am a Brazilian who likes technology. A bit of me:
 
 - :computer: C# | JavaScript | SAP B1
 - :iphone: Clash Royale player
-- :books: Reading books in spare time
+- :books: Reading books
 
 "When something is important enough, you do it even if the odds are not in your favor."
 
