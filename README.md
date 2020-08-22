@@ -6,7 +6,7 @@
 
 I am a Brazilian who likes technology. A bit of me:
 
-- :computer: C# | JavaScript | SAP
+- :computer: C# | JavaScript | Python | SAP
 - :iphone: Clash Royale player
 - :books: Reading books
 
