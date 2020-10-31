@@ -1,4 +1,7 @@
-# Hi there,
+## Hi there
+
+<a href="https://www.linkedin.com/in/danhpaiva/" target="_blank" title="LinkedIn"><img src="https://img.shields.io/static/v1?style=flat&logo=linkedin&label=&message=LinkedIn&color=purple"></a>
+<a href="danpaiva@live.com" target="_blank" title="Email"><img src="https://img.shields.io/static/v1?style=flat&logo=microsoft&label=&message=danpaiva@live.com&color=purple"></a>
 
 <p align="center">
   <img src="https://i.imgur.com/MR1VNUq.gif" width="500">
