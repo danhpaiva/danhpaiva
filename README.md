@@ -21,7 +21,8 @@
 I am currently a student of Systems Analysis and Development. I like to venture into codes and new technologies.
 
 - **Languages:** C# | JavaScript | Python :computer: 
--  **Hobbies:** Clash Royale & book's :iphone::books:
+- **Hobbies:** Clash Royale & book's :iphone: :books:
+- **Sport:** Running :runner: :purple_heart:
 
 
 "When something is important enough, you do it even if the odds are not in your favor."
