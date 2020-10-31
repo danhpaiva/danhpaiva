@@ -7,7 +7,7 @@
 <a href="mailto:danpaiva@live.com" target="_blank" title="Email">
   <img src="https://img.shields.io/static/v1?style=flat&logo=microsoft&label=&message=danpaiva@live.com&color=455bff">
 </a>
-<a href="https://t.me/danielpaiva" target="_blank" title="Telegram">
+<a href="https://t.me/danhpaiva" target="_blank" title="danhpaiva">
   <img src="https://img.shields.io/static/v1?style=flat&logo=telegram&label=&message=Telegram&color=455bff">
 </a></p>
 
