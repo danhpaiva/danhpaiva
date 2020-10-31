@@ -1,7 +1,7 @@
 ## Hi there
 
 <a href="https://twitter.com/danhpaiva" target="_blank" title="Twitter">
-  <img src="https://img.shields.io/static/v1?style=flat&logo=twitter&label=&message=LinkedIn&color=blueviolet">
+  <img src="https://img.shields.io/static/v1?style=flat&logo=twitter&label=&message=@danhpaiva&color=blueviolet">
 </a>
 <a href="https://www.linkedin.com/in/danhpaiva/" target="_blank" title="LinkedIn">
   <img src="https://img.shields.io/static/v1?style=flat&logo=linkedin&label=&message=DanielPaiva&color=blueviolet">
