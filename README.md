@@ -1,4 +1,4 @@
-<a href="https://twitter.com/danhpaiva" target="_blank" title="Twitter">
+<p id='link' align="center"><a href="https://twitter.com/danhpaiva" target="_blank" title="Twitter">
   <img src="https://img.shields.io/static/v1?style=flat&logo=twitter&label=&message=@danhpaiva&color=black">
 </a>
 <a href="https://www.linkedin.com/in/danhpaiva/" target="_blank" title="LinkedIn">
@@ -9,7 +9,7 @@
 </a>
 <a href="https://t.me/danielpaiva" target="_blank" title="Telegram">
   <img src="https://img.shields.io/static/v1?style=flat&logo=telegram&label=&message=Telegram&color=black">
-</a>
+</a></p>
 
 
 <p align="center">
@@ -18,7 +18,7 @@
 
 ## Hi there,
 
-I am a Brazilian who likes technology. A bit of me:
+I am currently a student of Systems Analysis and Development. I like to venture into codes and new technologies.
 
 - **Languages:** C# | JavaScript | Python :computer: 
 -  **Hobbies:** Clash Royale & book's :iphone::books:
