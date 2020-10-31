@@ -1,5 +1,3 @@
-## Hi there
-
 <a href="https://twitter.com/danhpaiva" target="_blank" title="Twitter">
   <img src="https://img.shields.io/static/v1?style=flat&logo=twitter&label=&message=@danhpaiva&color=black">
 </a>
@@ -17,6 +15,8 @@
 <p align="center">
   <img src="https://i.imgur.com/MR1VNUq.gif" width="350">
 </p>
+
+## Hi there,
 
 I am a Brazilian who likes technology. A bit of me:
 
