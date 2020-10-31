@@ -16,7 +16,7 @@
   <img src="https://i.imgur.com/MR1VNUq.gif" width="350">
 </p>
 
-## Hi there,
+### Hi there :wave:
 
 I am currently a student of Systems Analysis and Development. I like to venture into codes and new technologies.
 
