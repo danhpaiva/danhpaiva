@@ -14,5 +14,3 @@ I am a Brazilian who likes technology. A bit of me:
 - :books: Reading books
 
 "When something is important enough, you do it even if the odds are not in your favor."
-
-:link: <a href="https://www.linkedin.com/in/danhpaiva/" target="_blank" title="My LinkedIn">LinkedIn</a>
