@@ -13,7 +13,7 @@
 
 
 <p align="center">
-  <img src="https://i.imgur.com/MR1VNUq.gif" width="350">
+  <img src="https://i.imgur.com/MR1VNUq.gif" width="350" title="Daniel Paiva">
 </p>
 
 ### Hi there :wave:
