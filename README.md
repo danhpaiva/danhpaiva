@@ -45,7 +45,7 @@ LINK's:
   <img src="https://i.imgur.com/MR1VNUq.gif" width="350" title="Daniel Paiva">
 </p>
 
-## Hi there :hand:
+### Hi there :space_invader:
 I am currently a student of Systems Analysis and Development. I like to venture into codes and new technologies.<br>
 About:
 - **Languages:** C# | JavaScript | Python :computer: 
