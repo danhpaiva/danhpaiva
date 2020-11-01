@@ -30,7 +30,7 @@ LINK's:
     <img src="https://img.shields.io/static/v1?style=flat&logo=twitter&label=&message=@danhpaiva&color=5D4AD9">
   </a>
   <a href="https://www.linkedin.com/in/danhpaiva/" target="_blank" title="LinkedIn">
-    <img src="https://img.shields.io/static/v1?style=flat&logo=linkedin&label=&message=DanielPaiva&color=5D4AD9">
+    <img src="https://img.shields.io/static/v1?style=flat&logo=linkedin&label=&message=Paiva&color=5D4AD9">
   </a>
   <a href="mailto:danpaiva@live.com" target="_blank" title="Email">
     <img src="https://img.shields.io/static/v1?style=flat&logo=microsoft&label=&message=danpaiva@live.com&color=5D4AD9">
