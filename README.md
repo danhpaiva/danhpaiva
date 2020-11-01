@@ -1,5 +1,5 @@
 <!-- NOTES
-https://color.adobe.com/pt/search?q=developer
+
 Colors used:
   Color01: #BF047E
   Color02: #100126
@@ -20,10 +20,10 @@ Common Options:
   locale - set the language in the card (e.g. cn, de, es, etc.)
     
 LINK's:
-  https://github.com/anuraghazra/github-readme-stats
   [![Daniel Paiva github stats](https://github-readme-stats.vercel.app/api?username=danhpaiva)](https://github.com/danhpaiva)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danhpaiva&layout=compact)](https://github.com/danhpaiva)
 -->
+
 <!-- Social -->
 <p align="center">
   <a href="https://twitter.com/danhpaiva" target="_blank" title="Twitter">
@@ -39,12 +39,13 @@ LINK's:
     <img src="https://img.shields.io/static/v1?style=flat&logo=telegram&label=&message=@danhpaiva&color=5D4AD9">
   </a>
 </p>
+
 <!-- Image Top-->
 <p align="center">
   <img src="https://i.imgur.com/MR1VNUq.gif" width="350" title="Daniel Paiva">
 </p>
 
-## Hi there
+## Hi there :hand:
 I am currently a student of Systems Analysis and Development. I like to venture into codes and new technologies.<br>
 About:
 - **Languages:** C# | JavaScript | Python :computer: 
