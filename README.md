@@ -16,7 +16,7 @@ LINK's:
 <!-- Social -->
 <p align="center">
   <a href="https://twitter.com/danhpaiva" target="_blank" title="Twitter">
-    <img src="https://img.shields.io/static/v1?style=flat-square&logo=twitter&label=&message=@danhpaiva&color=5D4AD9">
+    <img src="https://img.shields.io/static/v1?style=flat-square&logo=twitter&logoColor=white&label=&message=@danhpaiva&color=5D4AD9">
   </a>
   <a href="https://www.linkedin.com/in/danhpaiva/" target="_blank" title="LinkedIn">
     <img src="https://img.shields.io/static/v1?style=flat-square&logo=linkedin&label=&message=Daniel+Paiva&color=5D4AD9">
@@ -25,7 +25,7 @@ LINK's:
     <img src="https://img.shields.io/static/v1?style=flat-square&logo=microsoft&label=&message=danpaiva@live.com&color=5D4AD9">
   </a>
   <a href="https://t.me/danhpaiva" target="_blank" title="Telegram">
-    <img src="https://img.shields.io/static/v1?style=flat-square&logo=telegram&label=&message=@danhpaiva&color=5D4AD9">
+    <img src="https://img.shields.io/static/v1?style=flat-square&logo=telegram&logoColor=white&label=&message=@danhpaiva&color=5D4AD9">
   </a>
 </p>
 
