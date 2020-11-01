@@ -42,7 +42,9 @@ LINK's:
 
 <!-- Image Top-->
 <p align="center">
-  <img src="https://i.imgur.com/MR1VNUq.gif" width="350" title="Daniel Paiva">
+  <a href="#">
+    <img src="https://i.imgur.com/MR1VNUq.gif" width="350" title="Daniel Paiva">
+  </a>
 </p>
 
 ### Hi there :space_invader:
