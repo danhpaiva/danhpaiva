@@ -47,7 +47,6 @@ LINK's:
   </a>
 </p>
 
-### Hi there :space_invader:
 I am currently a student of Systems Analysis and Development. I like to venture into codes and new technologies.<br>
 About:
 - **Languages:** C# | JavaScript | Python :computer: 
