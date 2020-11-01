@@ -22,7 +22,7 @@ LINK's:
     <img src="https://img.shields.io/static/v1?style=flat-square&logo=linkedin&label=&message=Daniel+Paiva&color=5D4AD9">
   </a>
   <a href="mailto:danpaiva@live.com" target="_blank" title="Email">
-    <img src="https://img.shields.io/static/v1?style=flat-square&logo=microsoft-outlook&label=&message=danpaiva@live.com&color=5D4AD9">
+    <img src="https://img.shields.io/static/v1?style=flat-square&logo=microsoft&label=&message=danpaiva@live.com&color=5D4AD9">
   </a>
   <a href="https://t.me/danhpaiva" target="_blank" title="Telegram">
     <img src="https://img.shields.io/static/v1?style=flat-square&logo=telegram&label=&message=@danhpaiva&color=5D4AD9">
