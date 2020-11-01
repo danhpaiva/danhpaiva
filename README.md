@@ -47,8 +47,7 @@ LINK's:
   </a>
 </p>
 
-I am currently a student of Systems Analysis and Development. I like to venture into codes and new technologies.<br>
-About:
+A problem solver. About me:
 - **Languages:** C# | JavaScript | Python :computer: 
 - **Hobbies:** Clash Royale & book's :iphone: :books:
 - **Sport:** Running :runner: :purple_heart:
