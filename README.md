@@ -24,21 +24,6 @@ LINK's:
   [![Daniel Paiva github stats](https://github-readme-stats.vercel.app/api?username=danhpaiva)](https://github.com/danhpaiva)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danhpaiva&layout=compact)](https://github.com/danhpaiva)
 -->
-
-<!-- Image Top-->
-<p align="center">
-  <img src="https://i.imgur.com/MR1VNUq.gif" width="350" title="Daniel Paiva">
-</p>
-
-## Hi there
-I am currently a student of Systems Analysis and Development. I like to venture into codes and new technologies.<br>
-About:
-- **Languages:** C# | JavaScript | Python :computer: 
-- **Hobbies:** Clash Royale & book's :iphone: :books:
-- **Sport:** Running :runner: :purple_heart:
-
-<!-- Stats -->
-[![Daniel Paiva github stats](https://github-readme-stats.vercel.app/api?username=danhpaiva&title_color=5D4AD9&text_color=7B77F2&bg_color=100126&show_icons=true&icon_color=7B77F2)](https://github.com/danhpaiva)
 <!-- Social -->
 <p align="center">
   <a href="https://twitter.com/danhpaiva" target="_blank" title="Twitter">
@@ -54,5 +39,19 @@ About:
     <img src="https://img.shields.io/static/v1?style=flat&logo=telegram&label=&message=@danhpaiva&color=5D4AD9">
   </a>
 </p>
+<!-- Image Top-->
+<p align="center">
+  <img src="https://i.imgur.com/MR1VNUq.gif" width="350" title="Daniel Paiva">
+</p>
+
+## Hi there
+I am currently a student of Systems Analysis and Development. I like to venture into codes and new technologies.<br>
+About:
+- **Languages:** C# | JavaScript | Python :computer: 
+- **Hobbies:** Clash Royale & book's :iphone: :books:
+- **Sport:** Running :runner: :purple_heart:
+
+<!-- Stats -->
+[![Daniel Paiva github stats](https://github-readme-stats.vercel.app/api?username=danhpaiva&title_color=5D4AD9&text_color=7B77F2&bg_color=100126&show_icons=true&icon_color=7B77F2)](https://github.com/danhpaiva)
 
 "When something is important enough, you do it even if the odds are not in your favor."
