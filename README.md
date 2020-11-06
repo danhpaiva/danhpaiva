@@ -32,7 +32,7 @@ LINK's:
 <!-- Image Top-->
 <p align="center">
   <a href="#">
-    <img src="./images/dev-paiva.gif" width="350" title="Daniel Paiva">
+    <img src="./images/dev-paiva-2.gif" width="400" title="Daniel Paiva">
   </a>
 </p>
 
