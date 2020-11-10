@@ -14,7 +14,7 @@ LINK's:
     <img src="https://img.shields.io/static/v1?style=flat-square&logo=twitter&label=&message=@danhpaiva&color=FF3333">
   </a>
   <a href="https://www.linkedin.com/in/danhpaiva/" target="_blank" title="LinkedIn">
-    <img src="https://img.shields.io/static/v1?style=flat-square&logo=linkedin&label=&message=Daniel+Paiva&color=FF3333">
+    <img src="https://img.shields.io/static/v1?style=flat-square&logo=linkedin&label=&message=Daniel+Paiva&color=FF5959">
   </a>
   <a href="mailto:danpaiva@live.com" target="_blank" title="Email">
     <img src="https://img.shields.io/static/v1?style=flat-square&logo=microsoft&label=&message=danpaiva@live.com&color=FF3333">
