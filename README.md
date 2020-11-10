@@ -19,8 +19,8 @@ LINK's:
   <a href="mailto:danpaiva@live.com" target="_blank" title="Email">
     <img src="https://img.shields.io/static/v1?style=flat-square&logo=microsoft&label=&message=danpaiva@live.com&color=FF5959">
   </a>
-  <a href="https://t.me/danhpaiva" target="_blank" title="Telegram">
-    <img src="https://img.shields.io/static/v1?style=flat-square&logo=telegram&logoColor=white&label=&message=@danhpaiva&color=FF5959">
+  <a href="https://api.whatsapp.com/send?phone=5531991633796" target="_blank" title="WhatsApp">
+    <img src="https://img.shields.io/static/v1?style=flat-square&logo=whatsapp&label=&message=@danhpaiva&color=FF5959">
   </a>
 </p>
 
