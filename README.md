@@ -1,6 +1,6 @@
 <!-- NOTES
 Colors used:
-  Color01: F22613
+  Color: #FF5959
     
 LINK's:
   https://shields.io/category/social
@@ -11,7 +11,7 @@ LINK's:
 <!-- Social -->
 <p align="center">
   <a href="https://twitter.com/danhpaiva" target="_blank" title="Twitter">
-    <img src="https://img.shields.io/static/v1?style=flat-square&logo=twitter&label=&message=@danhpaiva&color=FF5959">
+    <img src="https://img.shields.io/static/v1?style=flat-square&logo=twitter&logoColor=white&label=&message=@danhpaiva&color=FF5959">
   </a>
   <a href="https://www.linkedin.com/in/danhpaiva/" target="_blank" title="LinkedIn">
     <img src="https://img.shields.io/static/v1?style=flat-square&logo=linkedin&label=&message=Daniel+Paiva&color=FF5959">
