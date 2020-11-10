@@ -1,11 +1,6 @@
 <!-- NOTES
-
 Colors used:
-  Color01: #BF047E
-  Color02: #100126
-  Color03: #5D4AD9
-  Color04: #7B77F2
-  Color05: #91AAF2
+  Color01: F22613
     
 LINK's:
   https://shields.io/category/social
@@ -19,13 +14,13 @@ LINK's:
     <img src="https://img.shields.io/static/v1?style=flat-square&logo=twitter&logoColor=white&label=&message=@danhpaiva&color=F22613">
   </a>
   <a href="https://www.linkedin.com/in/danhpaiva/" target="_blank" title="LinkedIn">
-    <img src="https://img.shields.io/static/v1?style=flat-square&logo=linkedin&label=&message=Daniel+Paiva&color=032CA6">
+    <img src="https://img.shields.io/static/v1?style=flat-square&logo=linkedin&label=&message=Daniel+Paiva&color=F22613">
   </a>
   <a href="mailto:danpaiva@live.com" target="_blank" title="Email">
-    <img src="https://img.shields.io/static/v1?style=flat-square&logo=microsoft&label=&message=danpaiva@live.com&color=B4D6A4">
+    <img src="https://img.shields.io/static/v1?style=flat-square&logo=microsoft&label=&message=danpaiva@live.com&color=F22613">
   </a>
   <a href="https://t.me/danhpaiva" target="_blank" title="Telegram">
-    <img src="https://img.shields.io/static/v1?style=flat-square&logo=telegram&label=&message=@danhpaiva&color=5D4AD9">
+    <img src="https://img.shields.io/static/v1?style=flat-square&logo=telegram&label=&message=@danhpaiva&color=F22613">
   </a>
 </p>
 
