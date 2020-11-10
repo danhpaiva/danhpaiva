@@ -20,7 +20,7 @@ LINK's:
     <img src="https://img.shields.io/static/v1?style=flat-square&logo=microsoft&label=&message=danpaiva@live.com&color=FF5959">
   </a>
   <a href="https://t.me/danhpaiva" target="_blank" title="Telegram">
-    <img src="https://img.shields.io/static/v1?style=flat-square&logo=telegram&label=&message=@danhpaiva&color=FF5959">
+    <img src="https://img.shields.io/static/v1?style=flat-square&logo=telegram&logoColor=white&label=&message=@danhpaiva&color=FF5959">
   </a>
 </p>
 
