@@ -20,7 +20,7 @@ LINK's:
     <img src="https://img.shields.io/static/v1?style=flat-square&logo=microsoft&label=&message=danpaiva@live.com&color=FF5959">
   </a>
   <a href="https://api.whatsapp.com/send?phone=5531991633796" target="_blank" title="WhatsApp">
-    <img src="https://img.shields.io/static/v1?style=flat-square&logo=whatsapp&label=&message=@danhpaiva&color=FF5959">
+    <img src="https://img.shields.io/static/v1?style=flat-square&logo=whatsapp&logoColor=white&label=&message=@danhpaiva&color=FF5959">
   </a>
 </p>
 
