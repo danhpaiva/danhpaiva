@@ -1,4 +1,4 @@
-<!-- NOTES
+<!--
 Colors used:
   Color: #433DF2
     
