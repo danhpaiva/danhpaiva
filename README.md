@@ -23,7 +23,7 @@
   </a>
 </p>
 
-<!-- Image Top-->
+<!-- Image -->
 <p align="center">
   <a href="#">
     <img src="./images/dev-paiva-3.gif" width="400" title="Daniel Paiva">
