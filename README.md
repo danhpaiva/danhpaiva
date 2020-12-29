@@ -1,8 +1,7 @@
 <!-- 
-  Color used: #433DF2
-  LINK's:
-    https://shields.io/category/social
-    [![Daniel Paiva github stats](https://github-readme-stats.vercel.app/api?username=danhpaiva)](https://github.com/danhpaiva)
+  color used: #433DF2
+  link's:
+    (https://shields.io/category/social)
     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danhpaiva&layout=compact)](https://github.com/danhpaiva)
 -->
 
