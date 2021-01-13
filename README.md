@@ -1,4 +1,3 @@
-:star:
 <!-- 
   Color used: .......
     #433DF2
