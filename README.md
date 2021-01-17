@@ -25,7 +25,7 @@
 
 <p align="center">
   <a href="#">
-    <img src="./images/dev-paiva-3.gif" width="400" title="Daniel Paiva">
+    <img src="./images/cover-git-01.png" width="500" title="Daniel Paiva">
   </a>
 </p>
 
@@ -33,5 +33,3 @@ A problem solver. About me:
 - **Languages:** C# | JavaScript | Python :computer: 
 - **Hobbies:** Clash Royale & book's :iphone: :books:
 - **Sport:** Running :runner: :purple_heart:
-
-"When something is important enough, you do it even if the odds are not in your favor."
