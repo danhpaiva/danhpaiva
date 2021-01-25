@@ -1,5 +1,5 @@
 <!-- 
-  Color used: .......
+  Color used:
     #433DF2
 
   Link's:
