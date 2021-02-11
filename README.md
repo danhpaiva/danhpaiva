@@ -1,12 +1,3 @@
-<!-- 
-  Color used: .......
-    #433DF2
-
-  Link's:
-    (https://shields.io/category/social)
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danhpaiva&layout=compact)](https://github.com/danhpaiva)
--->
-
 <!-- Social -->
 <p align="center">
   <a href="https://twitter.com/danhpaiva" target="_blank" title="Twitter">
