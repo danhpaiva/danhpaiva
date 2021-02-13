@@ -16,7 +16,7 @@
 
 <p align="center">
   <a href="#">
-    <img src="./images/cover-git-01.png" width="1000" title="Daniel Paiva">
+    <img src="./images/cover-git-02.png" width="1000" title="Daniel Paiva">
   </a>
 </p>
 
