@@ -13,5 +13,5 @@
     <img src="https://img.shields.io/static/v1?style=flat-square&logo=whatsapp&logoColor=white&label=&message=WhatsApp&color=433DF2">
   </a>
 </p>
-<p>Passionate about technology.<br><br>
+<p>Passionate about technology.<br>
 "When something is important enough, you do it even if the odds are not in your favor."</p>
