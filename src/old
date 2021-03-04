@@ -1,6 +1,5 @@
-<h1>Daniel Paiva</h1>
-
-<p>
+<!-- Social -->
+<p align="center">
   <a href="https://twitter.com/danhpaiva" target="_blank" title="Twitter">
     <img src="https://img.shields.io/static/v1?style=flat-square&logo=twitter&logoColor=white&label=&message=@danhpaiva&color=433DF2">
   </a>
@@ -15,6 +14,13 @@
   </a>
 </p>
 
-<h3>I am passionate about technology. <br>
+<p align="center">
+  <a href="#">
+    <img src="./images/dev-paiva.gif" width="500" title="Daniel Paiva">
+  </a>
+</p>
 
-"When something is important enough, you do it even if the odds are not in your favor."</h3>
+A problem solver. About me:
+- **Languages:** C# | JavaScript | Python :computer: 
+- **Hobbies:** Clash Royale & book's :iphone: :books:
+- **Sport:** Running :runner: :purple_heart:
