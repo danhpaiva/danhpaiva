@@ -15,6 +15,6 @@
   </a>
 </p>
 
-<h3>I am passionate about technology. <br>
+<h4>I am passionate about technology. <br><br>
 
-"When something is important enough, you do it even if the odds are not in your favor."</h3>
+"When something is important enough, you do it even if the odds are not in your favor."</h4>
