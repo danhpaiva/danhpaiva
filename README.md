@@ -16,5 +16,4 @@
 </p>
 
 <h4>I am passionate about technology. <br><br>
-
 "When something is important enough, you do it even if the odds are not in your favor."</h4>
