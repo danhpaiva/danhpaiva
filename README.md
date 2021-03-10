@@ -14,4 +14,5 @@
   </a>
 </p>
 <p>Passionate about technology.</p>
+<p>Professional with over 10 years of experience in the IT area and teaching (digital inclusion) to young people in the metropolitan region of Belo Horizonte. I have experience in design and development of software systems.</p>
 <p>"When something is important enough, you do it even if the odds are not in your favor."</p>
