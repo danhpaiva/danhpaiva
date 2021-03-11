@@ -1,7 +1,7 @@
 <h1>Daniel Paiva</h1>
 <p>
   <a href="https://www.linkedin.com/in/danhpaiva/" target="_blank" title="LinkedIn">
-    <img src="https://img.shields.io/static/v1?style=flat-square&logo=linkedin&label=&message=Daniel+Paiva&color=6272a4">
+    <img src="https://img.shields.io/static/v1?style=flat-square&logo=linkedin&label=&message=Daniel+Paiva&color=ff5555">
   </a>
   <a href="mailto:danpaiva@live.com" target="_blank" title="Email">
     <img src="https://img.shields.io/static/v1?style=flat-square&logo=microsoft&label=&message=danpaiva@live.com&color=433DF2">
