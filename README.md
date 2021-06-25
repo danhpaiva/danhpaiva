@@ -11,6 +11,6 @@
   </a>
 </p>
 
-<p>Passionate about technology.</p>
-<p>Professional with over 10 years of experience in the IT field.</p>
+<p>Passionate about technology.<br>
+Professional with over 10 years of experience in the IT field.</p>
 <p>"When something is important enough, you do it even if the odds are not in your favor."</p>
