@@ -13,4 +13,5 @@
 
 <p>Passionate about technology.<br>
 Professional with over 10 years of experience in the IT field.</p>
-<p>"When something is important enough, you do it even if the odds are not in your favor."</p>
+<p>“We are what we repeatedly do.<br>
+Excellence, then, is not an act, but a habit.”</p>
