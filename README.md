@@ -19,7 +19,7 @@ Systems Developer with experience in technologies:
 * <a href="https://github.com/danhpaiva?tab=repositories&q=&type=&language=dart&sort=" target="_blank" title="Flutter">Flutter</a>  
 * <a href="https://github.com/danhpaiva?tab=repositories&q=&type=&language=python&sort=" target="_blank" title="Python">Python</a>
 * <a href="https://github.com/danhpaiva?tab=repositories&q=&type=&language=tsql&sort=" target="_blank" title="SQL">SQL</a>
-* Redis
+* <a href="https://github.com/danhpaiva/net-redis-example-key-value" target="_blank" title="Redis">Redis</a> 
 * Docker
 * <a href="https://github.com/danhpaiva/net-api-mongodb" target="_blank" title="MongoDB">MongoDb</a>
 * [UML](https://github.com/danhpaiva/university-diagram-plantUml)
