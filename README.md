@@ -25,7 +25,4 @@ Systems Developer with experience in technologies:
 * [UML](https://github.com/danhpaiva/university-diagram-plantUml)
 
 Focused on Solutions that use the best technologies to deliver quality to projects.<br>
-
-"We are what we repeatedly do.<br>
-Excellence, then, is not an act, but a habit.”
 </p>
