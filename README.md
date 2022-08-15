@@ -20,6 +20,7 @@ Systems Developer with experience in technologies:
 |[.Net (C#)](https://github.com/danhpaiva?tab=repositories&q=&type=&language=c%23&sort=) | <a href="https://github.com/danhpaiva?tab=repositories&q=&type=&language=tsql&sort=" target="_blank" title="SQL">SQL</a> | [UML](https://github.com/danhpaiva/university-diagram-plantUml) |
 [Flutter](https://github.com/danhpaiva?tab=repositories&q=&type=&language=dart&sort=) | [Redis](https://github.com/danhpaiva/net-redis-example-key-value) |   |
 |[Python](https://github.com/danhpaiva?tab=repositories&q=&type=&language=python&sort=) | [MongoDb](https://github.com/danhpaiva/net-api-mongodb) | Docker  |
+| | | [XUnit](https://github.com/danhpaiva/diplomator-net) |
 
 Focused on Solutions that use the best technologies to deliver quality to projects.<br>
 </p>
