@@ -1,13 +1,13 @@
 <h1>Hello folks,</h1>
 <p>
   <a href="https://www.linkedin.com/in/danhpaiva/" target="_blank" title="LinkedIn">
-    <img src="https://img.shields.io/static/v1?style=flat-square&logo=linkedin&label=&message=Daniel+Paiva&color=4F6F8C">
+    <img src="https://img.shields.io/static/v1?style=flat-square&logo=linkedin&label=&message=Daniel+Paiva&color=0DA64F">
   </a>
   <a href="mailto:danhpaiva@outlook.com" target="_blank" title="E-mail">
-    <img src="https://img.shields.io/static/v1?style=flat-square&logo=microsoft&label=&message=danhpaiva@outlook.com&color=4F6F8C">
+    <img src="https://img.shields.io/static/v1?style=flat-square&logo=microsoft&label=&message=danhpaiva@outlook.com&color=0DA64F">
   </a>
   <a href="https://twitter.com/danhpaiva" target="_blank" title="Twitter">
-    <img src="https://img.shields.io/static/v1?style=flat-square&logo=twitter&logoColor=white&label=&message=@danhpaiva&color=4F6F8C">
+    <img src="https://img.shields.io/static/v1?style=flat-square&logo=twitter&logoColor=white&label=&message=@danhpaiva&color=0DA64F">
   </a>
 </p>
 
