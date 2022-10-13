@@ -13,6 +13,8 @@
 
 <p>Graduated in Systems Analysis and Development from 
   <a href="https://www.una.br/" target="_blank" title="UNA">UNA</a>.<br>
+Specialization in Higher Education Teaching and Active Learning Methodologies from Faculdade Descomplica. <br>
+Specialization in Multiplatform Mobile Application Projects by Faculdade Descomplica. <br>
 Systems Developer with experience in technologies:
 
 * Language's: [.Net (C#)](https://github.com/danhpaiva?tab=repositories&q=&type=&language=c%23&sort=) ~ 
