@@ -1,8 +1,5 @@
 <h1>Hello folks,</h1>
 <p>
-  <a href="https://www.linkedin.com/in/danhpaiva/" target="_blank" title="LinkedIn">
-    <img src="https://img.shields.io/static/v1?style=flat-square&logo=linkedin&label=&message=Daniel+Paiva&color=5780F2">
-  </a>
   <a href="mailto:danhpaiva@outlook.com" target="_blank" title="E-mail">
     <img src="https://img.shields.io/static/v1?style=flat-square&logo=microsoft&label=&message=danhpaiva@outlook.com&color=5780F2">
   </a>
