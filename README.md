@@ -20,7 +20,7 @@ Systems Developer with experience in technologies:
 * DataBase's: [Sql](https://github.com/danhpaiva?tab=repositories&q=&type=&language=tsql&sort=) ~ 
 [Redis](https://github.com/danhpaiva/net-redis-example-key-value) ~ 
 [MongoDb](https://github.com/danhpaiva/net-api-mongodb)
-* Other's: [XUnit](https://github.com/danhpaiva/diplomator-net) ~ 
+* Other's: [xUnit](https://github.com/danhpaiva/diplomator-net) ~ 
 Docker ~
 [UML](https://github.com/danhpaiva/university-diagram-plantUml)
 
