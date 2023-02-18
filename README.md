@@ -7,9 +7,9 @@
 
 <p>Graduated in Systems Analysis and Development from 
   <a href="https://www.una.br/" target="_blank" title="UNA">UNA</a>.<br>
-Specialization in Higher Education Teaching and Active Learning Methodologies from Faculdade Descomplica. <br>
-Specialization in Multiplatform Mobile Application Projects by Faculdade Descomplica. <br>
-Specialization in Information Security from Faculdade Descomplica. <br>
+Specialization in Higher Education Teaching and Active Learning Methodologies. <br>
+Specialization in Multiplatform Mobile Application Projects. <br>
+Specialization in Information Security. <br>
 Specializing in Data Science at the 
 <a href="https://www5.usp.br/" target="_blank" title="USP">University of São Paulo</a> . <br>
 Systems Developer with experience in technologies:
