@@ -10,8 +10,7 @@
 Specialization in Higher Education Teaching and Active Learning Methodologies. <br>
 Specialization in Multiplatform Mobile Application Projects. <br>
 Specialization in Information Security. <br>
-Specializing in Data Science at the 
-<a href="https://www5.usp.br/" target="_blank" title="USP">University of São Paulo</a> . <br>
+
 Systems Developer with experience in technologies:
 
 * Language's: [.Net (C#)](https://github.com/danhpaiva?tab=repositories&q=&type=&language=c%23&sort=) ~ 
