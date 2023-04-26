@@ -6,7 +6,7 @@
 </p>
 
 <p>I have a degree in Systems Analysis and Development and I have specialization in:<br>
-Higher Education Teaching and Active Learning Methodologies, Information Security and Multiplatform Mobile Application Projects.<br>
+Higher Education Teaching and Active Learning Methodologies,<br>Information Security and Multiplatform Mobile Application Projects.<br>
 I taught Informatics for 8 years in the Municipal Education network of Belo Horizonte to Elementary School and EJA students.<br>
 Currently, my work with Systems Development is focused on delivering value and quality in all the products/services I work with.<br>
 At the same time, I am a Technology Professor with a view to aligning the academic area with the professional technology market.<br>
