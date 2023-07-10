@@ -23,7 +23,7 @@ The software development technologies I have experience with are:<br>
 Docker ~
 [UML](https://github.com/danhpaiva/university-diagram-plantUml)
 
-The maxim I follow is:
-"Dedication in everything I propose to do."
+The maxim I follow is:<br>
+"Dedication in everything I propose to do."<br>
 And it transforms my everyday life.<br>
 </p>
