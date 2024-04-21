@@ -5,10 +5,10 @@
   </a>
 </p>
 
-<p>I taught IT for 8 years in the Belo Horizonte Municipal Education Network for Elementary School and EJA students.<br>
-
-I currently work with Systems Development focused on delivering value and quality in all products and services.<br>
-At the same time, I am a University Professor with the aim of aligning the academic area with the professional technology market.<br>
+<p>Software developer specialized in the .Net platform with knowledge in Software Architecture. <br>
+I have expertise in the area of Distributed Systems. In addition to my role as a developer, I also bring experience in technology teaching.<br>
+With a practical approach, I share my knowledge with students, empowering them to tackle real-world challenges.
+<br>
 
 The software development technologies I have experience with are:<br>
 
@@ -23,7 +23,4 @@ The software development technologies I have experience with are:<br>
 Docker ~
 [UML](https://github.com/danhpaiva/university-diagram-plantUml)
 
-The maxim I follow is:<br>
-"Dedication in everything I propose to do."<br>
-And it transforms my everyday life.<br>
 </p>
