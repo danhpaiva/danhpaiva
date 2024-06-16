@@ -15,7 +15,8 @@ The software development technologies I have experience with are:<br>
 * Language's: [.Net (C#)](https://github.com/danhpaiva?tab=repositories&q=&type=&language=c%23&sort=) ~ 
 [Dart](https://github.com/danhpaiva?tab=repositories&q=&type=&language=dart&sort=) ~ 
 [Python](https://github.com/danhpaiva?tab=repositories&q=&type=&language=python&sort=) ~
-[Java](https://github.com/danhpaiva?tab=repositories&q=&type=&language=java&sort=)
+[Java](https://github.com/danhpaiva?tab=repositories&q=&type=&language=java&sort=) ~
+[Kotlin](https://github.com/danhpaiva?tab=repositories&q=&type=&language=kotlin&sort=)
 * DataBase's: [SQL](https://github.com/danhpaiva?tab=repositories&q=&type=&language=tsql&sort=) ~ 
 [Redis](https://github.com/danhpaiva/net-redis-example-key-value) ~ 
 [MongoDb](https://github.com/danhpaiva/net-api-mongodb)
