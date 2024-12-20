@@ -1,4 +1,4 @@
-<h1>Hello folks,</h1>
+  <h1>Hello folks,</h1>
 <p>
   <a href="mailto:danhpaiva@outlook.com" target="_blank" title="E-mail">
     <img src="https://img.shields.io/static/v1?style=flat-square&logo=microsoft&label=&message=danhpaiva@outlook.com&color=675cb0">
@@ -8,7 +8,7 @@
 <p>Software developer specialized in the .Net platform with knowledge in Software Architecture.<br>
 I have expertise in the area of Distributed Systems. </p>In addition to my role as a developer, I also bring experience in technology teaching. </br>With a practical approach, I share my knowledge with students, empowering them to tackle real-world challenges.</p>
 
-<p>STACK: .Net (3.1, 6, 8), Docker, Redis, Swarm, Portainer, TDD, Microservices, SQL, MongoDB, RabbitMQ, Kafka, Azure, Linux, CI/CD.
+<p>STACK: .Net (3.1, 5, 6, 8, 9), Docker, Redis, Swarm, Portainer, TDD, Microservices, SQL, MongoDB, RabbitMQ, Kafka, Azure, Linux, CI/CD.
 
 Here is a list of repositories:</p>
 
