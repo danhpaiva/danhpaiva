@@ -1,4 +1,4 @@
-  <h1>Hello folks,</h1>
+  <h1>Hello 👋🏻,</h1>
 <p>
   <a href="mailto:danhpaiva@outlook.com" target="_blank" title="E-mail">
     <img src="https://img.shields.io/static/v1?style=flat-square&logo=microsoft&label=&message=danhpaiva@outlook.com&color=675cb0">
