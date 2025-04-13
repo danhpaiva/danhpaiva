@@ -16,7 +16,8 @@ Here is a list of repositories:</p>
 [Dart](https://github.com/danhpaiva?tab=repositories&q=&type=&language=dart&sort=) ~ 
 [Python](https://github.com/danhpaiva?tab=repositories&q=&type=&language=python&sort=) ~
 [Java](https://github.com/danhpaiva?tab=repositories&q=&type=&language=java&sort=) ~
-[Kotlin](https://github.com/danhpaiva?tab=repositories&q=&type=&language=kotlin&sort=)
+[Kotlin](https://github.com/danhpaiva?tab=repositories&q=&type=&language=kotlin&sort=) ~
+[Go](https://github.com/danhpaiva?tab=repositories&q=&type=&language=go&sort=)
 * DataBase: [SQL](https://github.com/danhpaiva?tab=repositories&q=&type=&language=tsql&sort=) ~ 
 [Redis](https://github.com/danhpaiva/net-redis-example-key-value) ~ 
 [MongoDb](https://github.com/danhpaiva/net-api-mongodb)
