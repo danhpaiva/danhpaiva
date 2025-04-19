@@ -1,7 +1,7 @@
   <h1>Hello 👋🏻,</h1>
 <p>
-  <a href="mailto:danhpaiva@outlook.com" target="_blank" title="E-mail">
-    <img src="https://img.shields.io/static/v1?style=flat-square&logo=microsoft&label=&message=danhpaiva@outlook.com&color=D94032">
+  <a href="mailto:danpaiva@live.com" target="_blank" title="E-mail">
+    <img src="https://img.shields.io/badge/danpaiva@live.com-F2994B?style=for-the-badge">
   </a>
 </p>
 
