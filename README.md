@@ -21,7 +21,7 @@ Here is a list of repositories:</p>
 * DataBase: [SQL](https://github.com/danhpaiva?tab=repositories&q=&type=&language=tsql&sort=) ~ 
 [Redis](https://github.com/danhpaiva/net-redis-example-key-value) ~ 
 [MongoDb](https://github.com/danhpaiva/net-api-mongodb)
-* Other: [xUnit](https://github.com/danhpaiva/diplomator-net) ~ 
+* Other: [xUnit](https://github.com/danhpaiva/todo-mobile-bff) ~ 
 Docker ~
 [UML](https://github.com/danhpaiva/university-diagram-plantUml)
 
