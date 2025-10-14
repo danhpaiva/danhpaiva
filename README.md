@@ -23,6 +23,7 @@ Here is a list of repositories:</p>
 [MongoDb](https://github.com/danhpaiva/net-api-mongodb)
 * Other: [xUnit](https://github.com/danhpaiva/todo-mobile-bff) ~ 
 [Docker](https://github.com/danhpaiva/todo-api-mvc-net) ~
-[UML](https://github.com/danhpaiva/university-diagram-plantUml)
+[UML](https://github.com/danhpaiva/university-diagram-plantUml) ~
+[RabbitMq](https://github.com/danhpaiva?tab=repositories&q=rabbitmq&type=&language=&sort=)
 
 </p>
