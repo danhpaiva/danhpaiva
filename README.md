@@ -19,7 +19,7 @@ Here is a list of repositories:</p>
 [Kotlin](https://github.com/danhpaiva?tab=repositories&q=&type=&language=kotlin&sort=) ~
 [Go](https://github.com/danhpaiva?tab=repositories&q=&type=&language=go&sort=)
 * DataBase: [SQL](https://github.com/danhpaiva?tab=repositories&q=&type=&language=tsql&sort=) ~ 
-[Redis](https://github.com/danhpaiva/net-redis-example-key-value) ~ 
+[Redis](https://github.com/danhpaiva?tab=repositories&q=redis&type=&language=&sort=) ~ 
 [MongoDb](https://github.com/danhpaiva/net-api-mongodb)
 * Other: [xUnit](https://github.com/danhpaiva/todo-mobile-bff) ~ 
 [Docker](https://github.com/danhpaiva/todo-api-mvc-net) ~
