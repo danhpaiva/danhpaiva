@@ -8,7 +8,7 @@
 <p>Software Engineer on the .NET platform with knowledge in Software Architecture.<br>
 I have specialization in the area of ​​Distributed Systems Architecture.</p>
 
-<p>STACK: .Net (3.1, 6+, 10), Docker, Redis, Swarm, Portainer, TDD, Microservices, SQL, MongoDB, RabbitMQ, Kafka, Azure, Linux, CI/CD.
+<p>STACK: .Net (3.1, 6+, 10), Docker, Redis, Swarmpit, Portainer, Registry, TDD, Microservices, SQL, MongoDB, RabbitMQ, Kafka, Azure, Linux, CI/CD, Aspire, Sonar.
 
 Here is a list of repositories:</p>
 
