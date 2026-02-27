@@ -5,8 +5,9 @@
   </a>
 </p>
 
-<p>Software Engineer on the .NET platform with knowledge in Software Architecture.<br>
-I have specialization in the area of ​​Distributed Systems Architecture.</p>
+<p>Software Engineer focused on the .NET ecosystem and specialist in Distributed Systems Architecture. <br>
+My work is driven by building scalable and resilient solutions, combining technical expertise in .NET 10 with the efficiency of modern cloud and container-based infrastructures. <br>
+I have solid experience architecting microservices, implementing TDD practices, and optimizing CI/CD pipelines to ensure high-quality delivery.</p>
 
 <p>STACK: .Net (3.1, 6+, 10), Docker, Redis, Swarmpit, Portainer, Registry, TDD, Microservices, SQL, MongoDB, RabbitMQ, Kafka, Azure, Linux, CI/CD, Aspire, Sonar.
 
