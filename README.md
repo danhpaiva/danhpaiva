@@ -17,7 +17,7 @@
 
 ---
 
-## 👨‍💻 Ola pessoal,
+## 👨‍💻 E Aí,
 
 Engenheiro de Software especializado no ecossistema **.NET** e em **Arquitetura de Sistemas Distribuídos**, com **6+ anos de experiência** construindo soluções escaláveis e resilientes.
 
