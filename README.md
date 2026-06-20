@@ -1,7 +1,7 @@
   <h1>Hello 👋🏻,</h1>
 <p>
-  <a href="mailto:danpaiva@live.com" target="_blank" title="E-mail">
-    <img src="https://img.shields.io/badge/danpaiva@live.com-2d2a6e?style=for-the-badge">
+  <a href="mailto:danhpaiva@outlook.com" target="_blank" title="E-mail">
+    <img src="https://img.shields.io/badge/danhpaiva@outlook.com-2d2a6e?style=for-the-badge">
   </a>
   
   <a href="https://t.me/danhpaiva" target="_blank" title="Telegram">
