@@ -1,7 +1,11 @@
   <h1>Hello 👋🏻,</h1>
 <p>
   <a href="mailto:danpaiva@live.com" target="_blank" title="E-mail">
-    <img src="https://img.shields.io/badge/danpaiva@live.com-BE3455?style=for-the-badge">
+    <img src="https://img.shields.io/badge/danpaiva@live.com-2d2a6e?style=for-the-badge">
+  </a>
+  
+  <a href="https://t.me/danhpaiva" target="_blank" title="Telegram">
+    <img src="https://img.shields.io/badge/Telegram-2d2a6e?style=for-the-badge&logo=telegram&logoColor=white">
   </a>
 </p>
 
